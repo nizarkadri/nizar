@@ -1,2 +1,2 @@
 if __name__ == '__main__':
-    print('Hello World - welcome toUniversity')
+    print('Hello World - welcome to toUniversity')
